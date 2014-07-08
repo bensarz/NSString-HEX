@@ -150,7 +150,8 @@
 				D80942EB196C249D00A0BA3D /* NSString+Hex.h */,
 				D80942EC196C249D00A0BA3D /* NSString+Hex.m */,
 			);
-			path = "NSString+Hex-Pod";
+			name = "NSString+Hex-Pod";
+			path = "../NSString+Hex-Pod";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

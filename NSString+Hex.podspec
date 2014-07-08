@@ -17,10 +17,10 @@ Pod::Spec.new do |s|
   s.social_media_url   = "http://twitter.com/bensarz"
   s.ios.deployment_target = "5.0"
   s.osx.deployment_target = "10.7"
-  s.source       = { :git => "https://github.com/bensarz/NSString-HEX.git", :commit => "02cbea91e911a372f41a07aafac8743784d62fe0" }
+  s.source       = { :git => "https://github.com/bensarz/NSString-HEX.git", :tag => "0.0.1" }
   s.source_files  = "NSString+Hex-Pod", "NSString+Hex-Pod/**/*.{h,m}"
   s.public_header_files = "NSString+Hex-Pod/**/*.h"
   s.framework  = "Foundation"
   s.requires_arc = true
-  
+
 end
